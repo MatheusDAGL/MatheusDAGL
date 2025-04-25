@@ -10,13 +10,4 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDAGl&theme=dark" />
 </div>
 
-<h2>Contato</h2>
 
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-de-alencar-lima/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:matheusdealencargl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
