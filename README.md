@@ -3,7 +3,6 @@
 <ul>
 <li>👔 Atualmente trabalho com Design Gráfico, buscando transição para o mercado de T.I</li>
 <li>👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas</li>  
-<li>📚 Atualmente estudando desenvolvimento de APIs</li>
 </ul>
 
 <div align="center">
