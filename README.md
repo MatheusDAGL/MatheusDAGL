@@ -1,12 +1,33 @@
-## Olá, me chamo Matheus de Alencar 👋
+## Matheus de Alencar  
 
-<ul>
-<li>👔 Atualmente trabalho com Design Gráfico, buscando transição para o mercado de T.I</li>
-<li>👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas</li>  
-</ul>
+**`Desenvolvedor Full Stack`**
 
-<div align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDAGl&theme=dark" />
-</div>
+---
 
+Olá, me chamo Matheus, tenho 22 anos e moro em São Paulo - SP.  
+Sou formado em Análise e Desenvolvimento de Sistemas e pretendo ingressar no mercado de TI, preferencialmente como desenvolvedor.
 
+---
+
+### Linguagens e Tecnologias
+<p align="center">
+  <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Tailwind" title="Tailwind" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Csharp" title="Csharp" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img alt="SQL Server" title="SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img 
+    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDAGl&theme=dark&layout=compact&langs_count=8"
+    height="270"
+  />
+</p>
