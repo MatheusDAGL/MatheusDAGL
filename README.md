@@ -4,8 +4,8 @@
 
 ---
 
-Olá, me chamo Matheus, tenho 22 anos e moro em São Paulo - SP.  
-Sou formado em Análise e Desenvolvimento de Sistemas e pretendo ingressar no mercado de TI, preferencialmente como desenvolvedor.
+Olá, me chamo Matheus, tenho 23 anos e moro em São Paulo - SP.  
+Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como desenvolvedor.
 
 ---
 
