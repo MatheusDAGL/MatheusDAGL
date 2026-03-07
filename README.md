@@ -28,3 +28,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como desenvolve
     height="270"
   />
 </p>
+
+<div align ="center">
+
+  <img src="https://raw.githubusercontent.com/MatheusDAGL/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
