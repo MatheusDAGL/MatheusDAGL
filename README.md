@@ -24,7 +24,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como desenvolve
 <p align="center">
   <img 
     alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDAGl&theme=dark&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDAGL&theme=dark&layout=compact&langs_count=8"
     height="270"
   />
 </p>
