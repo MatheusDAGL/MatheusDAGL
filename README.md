@@ -19,7 +19,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como desenvolve
   <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
----
 
 <p align="center">
   <img 
@@ -28,8 +27,3 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como desenvolve
     height="270"
   />
 </p>
-
-<div align ="center">
-
-  <img src="https://raw.githubusercontent.com/MatheusDAGL/gitrepo/output/snake.svg" alt="Snake animation" />
-</div>
